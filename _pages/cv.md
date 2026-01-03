@@ -74,12 +74,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* TECHNICAL SKILLS 
+
+Python • C • C++ 
+
+* SOFT SKILLS 
+
+Fokus tugas • Manajemen waktu • Pencatatan analitis • Kesadaran bisnis 
+
+* LANGUAGES 
+
+Bahasa Inggris (Mampu berbicara dan membaca bahasa Inggris) 
 
 Publications
 ======
