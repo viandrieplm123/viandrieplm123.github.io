@@ -11,9 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Universitas Bina Nusantara 
+
+Cyber Security 
+
+S1 • Cyber Security • GPA 2.72 
+
+2023-08 — 2027-07 
+
+Menyelesaikan tugas kuliah dan praktikum dalam keamanan jaringan, respons insiden, dan pengkodean aman menggunakan Python dan C untuk mengimplementasikan latihan dan diagnostik. 
+
+Mengembangkan praktikum akhir yang mensimulasikan investigasi dan remediasi insiden, mendokumentasikan prosedur dan mitigasi yang direkomendasikan. 
+
+Menyeimbangkan pekerjaan proyek dan tugas kuliah sambil mempertahankan IPK 2,72 dan mencoba menaiki menjadi lebih dari 3, menunjukkan manajemen waktu yang baik dalam memenuhi persyaratan teknis. 
+
+* BrightChamps 
+
+Kursus koding brightchamps 
+
+Course • Coding 
+
+2022-01 — 2022-12 
+
+Menyelesaikan modul pemrograman pengantar yang berfokus pada dasar-dasar Python dan pemecahan masalah algoritmik melalui proyek-proyek praktis. 
+
+Hyred Career Community, IAI knowledge center 
+
+Kursus Data Science 
+
+Course • Data Science 
+
+Mempelajari teknik analisis dan visualisasi data menggunakan Python dan menerapkannya pada kumpulan data kecil dalam latihan mandiri. 
+
+* English First / EF 
+
+Kursus English First / EF 
+
+Course • English 
+
+2022-01 — 2022-12 
+
+Menyelesaikan mata kuliah yang menekankan keterampilan membaca dan berbicara untuk meningkatkan komunikasi bahasa Inggris dalam konteks teknis. 
+
+ 
 
 Work experience
 ======
