@@ -23,7 +23,7 @@ Menyelesaikan tugas kuliah dan praktikum dalam keamanan jaringan, respons inside
 
 Mengembangkan praktikum akhir yang mensimulasikan investigasi dan remediasi insiden, mendokumentasikan prosedur dan mitigasi yang direkomendasikan. 
 
-Menyeimbangkan pekerjaan proyek dan tugas kuliah sambil mempertahankan IPK 2,72 dan mencoba menaiki menjadi lebih dari 3, menunjukkan manajemen waktu yang baik dalam memenuhi persyaratan teknis. 
+Menyeimbangkan pekerjaan proyek dan tugas kuliah sambil mempertahankan IPK 2,72 dan mencoba meningkatkan menjadi lebih dari 3, menunjukkan manajemen waktu yang baik dalam memenuhi persyaratan teknis. 
 
 * BrightChamps 
 
@@ -70,3 +70,21 @@ Bahasa Inggris (Mampu berbicara dan membaca bahasa Inggris)
 * ALAT 
 
 Microsoft Office • Canva • Movavi • CapCut • Medibang 
+
+Informasi Lain
+------
+* TUJUAN 
+
+Meningkatkan reputasi saya di tempat kerja dengan melakukan pekerjaan dengan baik. 
+
+Mempelajari cara bekerja di tempat kerja untuk meningkatkan efisiensi kerja. 
+
+* PELUANG KARIR 
+
+Software engineer (web programming). 
+
+Penguji penetrasi/ penetration tester. 
+
+* CERTIFICATES & AWARDS 
+
+Kursus koding brightchamps Certificate 2022
