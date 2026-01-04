@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Universitas Bina Nusantara 
 
 Cyber Security 
@@ -51,7 +51,7 @@ Course • English
 
 2022-01 — 2022-12 
 
-Menyelesaikan mata kuliah yang menekankan keterampilan membaca dan berbicara untuk meningkatkan komunikasi bahasa Inggris dalam konteks teknis. 
+Menyelesaikan kursus yang menekankan keterampilan membaca dan berbicara untuk meningkatkan komunikasi bahasa Inggris dalam konteks teknis. 
 
 Skills
 ------
@@ -67,3 +67,6 @@ Fokus tugas • Manajemen waktu • Pencatatan analitis • Kesadaran bisnis
 
 Bahasa Inggris (Mampu berbicara dan membaca bahasa Inggris) 
 
+* ALAT 
+
+Microsoft Office • Canva • Movavi • CapCut • Medibang 
