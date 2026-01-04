@@ -15,6 +15,8 @@ Email: luviandrie@gmail.com
 
 Phone: 0812-8116-8752 
 
+Whatsapp: +62 812-8116-8752
+
 Link
 ------
 LinkedIn: https://www.linkedin.com/in/mikhael-luviandrie-555854211/ 
