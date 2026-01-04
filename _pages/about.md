@@ -26,3 +26,5 @@ Certificate Folder: https://drive.google.com/drive/folders/1xqRTKmUg7ll2_BKjq1Ra
 Instagram: https://www.instagram.com/mikhaelluviandrie?igsh=MW9lcXdkanB3cWp2cA== 
 
 Twitter X: https://x.com/viandrieplmy 
+
+CV Doc: https://binusianorg-my.sharepoint.com/personal/mikhael_purwanto_binus_ac_id/_layouts/15/guestaccess.aspx?share=IQAf4B6TCPXaTKP68kLq6VkPAfaaVVIqUeibRwhlNkIjqiQ&e=ZeTfhj
