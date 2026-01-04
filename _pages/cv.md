@@ -23,7 +23,7 @@ Menyelesaikan tugas kuliah dan praktikum dalam keamanan jaringan, respons inside
 
 Mengembangkan praktikum akhir yang mensimulasikan investigasi dan remediasi insiden, mendokumentasikan prosedur dan mitigasi yang direkomendasikan. 
 
-Menyeimbangkan pekerjaan proyek dan tugas kuliah sambil mempertahankan IPK 2,72 dan mencoba meningkatkan menjadi lebih dari 3, menunjukkan manajemen waktu yang baik dalam memenuhi persyaratan teknis. 
+Menyeimbangkan pekerjaan proyek dan tugas kuliah sambil mencoba meningkatkan IPK 2,72 menjadi lebih dari 3, menunjukkan manajemen waktu yang baik dalam memenuhi persyaratan teknis. 
 
 * BrightChamps 
 
