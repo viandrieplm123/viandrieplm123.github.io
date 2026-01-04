@@ -53,25 +53,6 @@ Course • English
 
 Menyelesaikan mata kuliah yang menekankan keterampilan membaca dan berbicara untuk meningkatkan komunikasi bahasa Inggris dalam konteks teknis. 
 
- 
-
-Work experience
-------
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ------
 * TECHNICAL SKILLS 
@@ -85,3 +66,4 @@ Fokus tugas • Manajemen waktu • Pencatatan analitis • Kesadaran bisnis
 * LANGUAGES 
 
 Bahasa Inggris (Mampu berbicara dan membaca bahasa Inggris) 
+
