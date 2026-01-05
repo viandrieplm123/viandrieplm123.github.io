@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Mahasiswa S1 cyber security tingkat pemula dengan pengalaman dalam coding menggunakan Python, C, dan C++.Saya telah menyelesaikan mata kuliah dan praktikum di bidang keamanan jaringan, respons insiden, dan pengkodean aman sambil menerapkan scripting untuk otomatisasi dan analisis, dan saya juga memiliki kemampuan pengeditan video dan komunikasi bahasa Inggris. Dengan latar belakang ini, saya menawarkan kombinasi praktis antara scripting teknis dan kemampuan investigasi yang siap berkontribusi pada tim operasi keamanan atau pengujian penetrasi tingkat pemula. 
+Saya adalah mahasiswa S1 Cyber Security tingkat pemula dengan pengalaman dalam coding menggunakan Python, C, dan C++. Saya telah menyelesaikan mata kuliah dan praktikum di bidang keamanan jaringan, respons insiden, dan pengkodean aman, serta menerapkan scripting untuk otomatisasi dan analisis. Selain itu, saya juga memiliki kemampuan pengeditan video dan komunikasi bahasa Inggris. Dengan latar belakang ini, saya menawarkan kombinasi praktis antara scripting teknis dan kemampuan investigasi yang siap berkontribusi pada tim operasi keamanan atau pengujian penetrasi tingkat pemula. 
 
 Contact 
 ------
