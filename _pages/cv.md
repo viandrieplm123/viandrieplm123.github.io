@@ -89,6 +89,12 @@ Penguji penetrasi/ penetration tester.
 
 Kursus koding brightchamps Certificate 2022
 
+EF Trailblazer Book 7 2018
+
+WebHozz Game Development Training 2018
+
+LPIA EPT (English Proficiency Test) 2023 (Score: 530)
+
 * Link
 
 CV Document Indo: https://binusianorg-my.sharepoint.com/personal/mikhael_purwanto_binus_ac_id/_layouts/15/guestaccess.aspx?share=IQAwlxB98prCRpz5rrIKa_23Adl2dAQTC9eVEEqnE8lU1ao&e=XHTwHw 
