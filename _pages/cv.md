@@ -65,7 +65,7 @@ Fokus tugas • Manajemen waktu • Pencatatan analitis • Kesadaran bisnis
 
 * LANGUAGES 
 
-Bahasa Inggris (Mampu berbicara dan membaca bahasa Inggris) 
+Bahasa Inggris (Mampu berbicara , menulis dan membaca bahasa Inggris) 
 
 * ALAT 
 
